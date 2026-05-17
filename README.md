@@ -14,15 +14,18 @@ I am a Junior Data Analyst & BI Developer with hands-on experience in data analy
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/amira-ahmed-ebrahim" target="blank">
+<!-- رابط لينكد إن الصحيح -->
+<a href="https://www.linkedin.com/in/amira-ahmed-ebrahim" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="[https://youtube.com/@yourchannel](https://www.youtube.com/channel/UC-snSJlWYnW-hqMLWZdu1ng)" target="blank">
+<!-- رابط يوتيوب بعد التنظيف -->
+<a href="https://www.youtube.com/channel/UC-snSJlWYnW-hqMLWZdu1ng" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<a href="amiraaebrahim27@gmail.com">
+<!-- رابط الإيميل مع خاصية mailto -->
+<a href="mailto:amiraaebrahim27@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
